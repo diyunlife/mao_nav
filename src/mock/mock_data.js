@@ -40,13 +40,6 @@ export const mockData = {
           "url": "https://javhd.name",
           "description": "OpenAI,好用👌",
           "icon": "/sitelogo/chatgpt.com.ico"
-        },
-        {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://www.bestjavporn.com/v9/category/chinese-subtitle/",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
@@ -195,7 +188,7 @@ export const mockData = {
     },
     {
       "id": "dev-tools",
-      "name": "开发工具",
+      "name": "影视",
       "icon": "🛠️",
       "order": 4,
       "sites": [
@@ -209,14 +202,14 @@ export const mockData = {
         {
           "id": "vscode",
           "name": "VS Code",
-          "url": "https://code.visualstudio.com",
+          "url": "https://pomo.mom",
           "description": "代码编辑器",
           "icon": "/sitelogo/code.visualstudio.com.ico"
         },
         {
           "id": "webstorm",
           "name": "WebStorm",
-          "url": "https://www.jetbrains.com/webstorm/",
+          "url": "https://fmhy.net/video",
           "description": "专业前端IDE",
           "icon": "/sitelogo/www.jetbrains.com.ico"
         },
@@ -247,6 +240,13 @@ export const mockData = {
           "url": "https://mail.chatgpt.org.uk/",
           "description": "免费邮箱站点",
           "icon": "https://www.faviconextractor.com/favicon/mail.chatgpt.org.uk"
+        },
+        {
+          "id": "github",
+          "name": "GitHub",
+          "url": "https://www.ppnix.com/cn/",
+          "description": "代码托管平台",
+          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
