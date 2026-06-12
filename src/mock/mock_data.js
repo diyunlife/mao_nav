@@ -193,11 +193,11 @@ export const mockData = {
       "order": 4,
       "sites": [
         {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
+          "id": "postman",
+          "name": "Postman",
+          "url": "https://www.ppnix.com/cn/",
+          "description": "API测试工具",
+          "icon": "/sitelogo/www.postman.com.ico"
         },
         {
           "id": "vscode",
@@ -212,13 +212,6 @@ export const mockData = {
           "url": "https://fmhy.net/video",
           "description": "专业前端IDE",
           "icon": "/sitelogo/www.jetbrains.com.ico"
-        },
-        {
-          "id": "postman",
-          "name": "Postman",
-          "url": "https://www.postman.com",
-          "description": "API测试工具",
-          "icon": "/sitelogo/www.postman.com.ico"
         },
         {
           "id": "android-studio",
@@ -240,13 +233,6 @@ export const mockData = {
           "url": "https://mail.chatgpt.org.uk/",
           "description": "免费邮箱站点",
           "icon": "https://www.faviconextractor.com/favicon/mail.chatgpt.org.uk"
-        },
-        {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://www.ppnix.com/cn/",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
